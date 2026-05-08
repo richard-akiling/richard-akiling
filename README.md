@@ -1,53 +1,98 @@
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=richard-akiling&show_icons=true&theme=transparent" />
 <div align="center">
-  <!-- Header Image -->
- 
 
-  <h2>Hi, I'm Richard Wu</h2>
-  <p><strong>Software Engineer | System Architect </strong></p>
-  
- 
+# Richard Wu
+
+### Software Engineer · System Architect · Engineering Aesthetics Enthusiast
+
+<p>
+  Building elegant systems with sustainable architecture.
+</p>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=typescript,react,electron,python,tailwindcss,docker,sqlite,prisma,nginx" />
+
 </div>
 
 ---
 
-### About Me / 关于我
+## About Me
 
-我是一名专注于**工程美学**与**系统架构设计**的软件工程师，居住在中国。
+I’m a software engineer focused on **engineering aesthetics**, **system architecture**, and **developer-oriented tooling**.
 
-我相信优秀的软件不仅仅要能解决问题，更应该具备**清晰的结构、优雅的抽象和可持续的维护性**。在过去的开发实践中，我始终追求**简洁而强大**的设计哲学，注重代码的可读性、系统的可扩展性以及长期演进能力。
+To me, great software is not only functional — it should also embody:
 
-我持续学习新的技术和理念，不断打磨自己的架构思维与工程素养，致力于构建真正**实用且精致**的工具和系统。
+- Clear structure
+- Elegant abstraction
+- Sustainable maintainability
+- Long-term scalability
 
----
+I value simplicity without sacrificing power, and I continuously refine my architectural thinking through real-world engineering practice.
 
-### Currently Working On / 目前正在进行
-
-🌱 目前我正在全力开发 **Psephy Studio**  —— 一个现代化、可视化的 Scrapy 爬虫配置与管理系统。
-
-该项目以**配置驱动（PSCF）** 为核心理念，设计并实现了 Pipeline、Middleware 的动态管理机制，以及配置编辑、任务监控、Processor 管理等完整工作流，目标是让复杂爬虫项目的开发、维护和监控变得更加结构化与高效。
-
----
-
-### Tech Stack / 技术栈
-
-**Main**  
-<img src="https://skillicons.dev/icons?i=typescript,react,electron,python,tailwindcss" alt="Main Tech Stack" />
-
-**Architecture & Tools**  
-<img src="https://skillicons.dev/icons?i=docker,sqlite,prisma,nginx" alt="Architecture Tools" />
-
-**Learning**  
-持续探索高性能架构、桌面端应用架构及相关领域新技术
+Currently based in China, exploring modern desktop architecture, scalable systems, and developer experience design.
 
 ---
 
-### Let's Connect / 联系方式
+## Currently Working On
 
-- **Email**: Richard_AkiLing@outlook.com
-- **GitHub**: [Richard.Wu](https://github.com/richard-akiling)
+### Psephy Studio
+
+A modern visualized Scrapy workflow platform built around the concept of **configuration-driven architecture (PSCF)**.
+
+Core features include:
+
+- Dynamic Pipeline & Middleware management
+- Visual configuration editing
+- Task monitoring system
+- Processor runtime management
+- Structured crawler workflow orchestration
+
+The goal is to make complex crawler engineering more maintainable, scalable, and elegant.
+
+---
+
+## Tech Stack
+
+### Main Technologies
+
+```txt
+TypeScript · React · Electron · Python · TailwindCSS
+````
+
+### Architecture & Infrastructure
+
+```txt
+Docker · SQLite · Prisma · Nginx
+```
+
+### Current Interests
+
+* High-performance architecture
+* Desktop application engineering
+* Runtime systems
+* Developer tooling
+* Configuration-driven systems
+
+---
+
+## Philosophy
+
+> Pursuing elegant architecture
+> Building sustainable systems
+
+---
+
+## Connect With Me
+
+* Email: [Richard_AkiLing@outlook.com](mailto:Richard_AkiLing@outlook.com)
+* GitHub: https://github.com/richard-akiling
 
 ---
 
 <div align="center">
-  <i>追求优雅的架构，构建可持续的系统。</i>
+
+### 鸢飞戾天，鲟跃于渊
+
 </div>
+
